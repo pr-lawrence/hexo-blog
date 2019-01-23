@@ -75,6 +75,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hueman
 
+# robots.txt
+robotstxt:
+  User-agent: '*'
+  Allow: /
+  Sitemap: /sitemap.xml
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
