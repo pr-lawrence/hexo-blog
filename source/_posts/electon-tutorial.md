@@ -1,6 +1,8 @@
 ---
 title: electon-tutorial
 date: 2019-02-04 22:24:55
+category: Frontend
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1920px-Electron_Software_Framework_Logo.svg.png
 tags: 
   - electron
 ---

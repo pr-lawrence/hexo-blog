@@ -1,11 +1,15 @@
 ---
 title: Github Pages에 custom domain 설정하기
 date: 2019-01-21 20:41:53
+category: Frontend
+thumbnail: https://cdn-images-1.medium.com/max/1600/1*pv5LukDtyQx5JXQee2uNgA.jpeg
 tags:
   - hexo
   - blog
   - github pages
 ---
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png
 
 Github pages에서 custom 도메인을 설정하는 방법이다.
 
