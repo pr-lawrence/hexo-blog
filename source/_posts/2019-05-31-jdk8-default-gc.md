@@ -8,7 +8,7 @@ tags:
   - gc
 ---
 
-JDK 8에서 기본 GC가 무엇인지 궁금해서 구글링을 해봤는데 [스택오버플로우에서 이런 글을](http://stackoverflow.com/questions/33206313/default-garbage-collector-for-java-8) 찾았다
+JDK 8에서 기본 GC가 무엇인지 궁금해서 구글링을 해봤는데 [스택오버플로우에서 이런 글을](http://stackoverflow.com/questions/33206313/default-garbage-collector-for-java-8) 찾았다.
 
 글의 내용을 요약하면 머신에 따라 의존적이라는 것이다.
 
