@@ -4,6 +4,9 @@ case $1 in
 	start)
 		hexo start
 	;;
+	new )
+		hexo new `date "+%Y-%m-%d"`-$2
+	;;
 	deploy)
 		hexo deploy --generate
 	;;
