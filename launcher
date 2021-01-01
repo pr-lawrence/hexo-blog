@@ -11,6 +11,6 @@ case $1 in
 		hexo deploy --generate
 	;;
 	*)
-		echo "[start|deploy]"
+		echo "[start|new|deploy]"
 	;;
 esac
