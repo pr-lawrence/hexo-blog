@@ -2,7 +2,7 @@
 
 case $1 in
 	start)
-		hexo start
+		hexo server
 	;;
 	new )
 		hexo new `date "+%Y-%m-%d"`-$2
