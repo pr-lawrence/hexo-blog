@@ -5,7 +5,7 @@ case $1 in
 		hexo server
 	;;
 	new )
-		hexo new `date "+%Y-%m-%d"`-$2
+		hexo new draft `date "+%Y-%m-%d"`-$2
 	;;
 	deploy)
 		hexo deploy --generate
