@@ -1,5 +1,5 @@
 ---
-title: 2020-01-04-git-language.md
+title: Git 한글에서 영어로 바꾸기
 date: 2020-01-04 23:55:01
 category: [Git]
 thumbnail: 2020-01-04-git-language/git.png
