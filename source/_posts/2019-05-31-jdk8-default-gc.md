@@ -1,7 +1,7 @@
 ---
 title: JDK8에서 기본 GC(Garbage Collector)
 date: 2019-05-31 22:51:04
-category: Java
+category: [Language, Java]
 thumbnail: https://bloggceasy.files.wordpress.com/2016/08/garbage-collection.png
 tags:
   - jdk

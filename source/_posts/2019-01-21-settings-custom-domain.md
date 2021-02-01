@@ -1,7 +1,7 @@
 ---
 title: Github Pages에 custom domain 설정하기
 date: 2019-01-21 20:41:53
-category: Frontend
+category: [Blog]
 thumbnail: https://cdn-images-1.medium.com/max/1600/1*pv5LukDtyQx5JXQee2uNgA.jpeg
 tags:
   - hexo

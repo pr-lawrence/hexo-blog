@@ -1,7 +1,7 @@
 ---
 title: 2020-01-04-git-language.md
 date: 2020-01-04 23:55:01
-category: Git
+category: [Git]
 thumbnail: 2020-01-04-git-language/git.png
 tags:
   - git

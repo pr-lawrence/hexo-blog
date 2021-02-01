@@ -1,7 +1,7 @@
 ---
 title: 엘라스틱서치 소개
 date: 2019-08-08 23:29:26
-category:
+category: [Data Engineering, ElasticSearch]
 thumbnail:
 tags: elasticsearch
 ---
